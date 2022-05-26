@@ -1,4 +1,4 @@
-# 🚀 Crypto Avg. Price
+# 🚀 Binance Crypto Avg. Price
 
 Calculate your average purchase price
 
